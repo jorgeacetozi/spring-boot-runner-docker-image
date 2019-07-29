@@ -3,7 +3,7 @@
 ############################################################
 
 # Set the base image to java8
-FROM openjdk:8
+FROM openjdk:12
 
 # File Author / Maintainer
 MAINTAINER Jorge Acetozi
